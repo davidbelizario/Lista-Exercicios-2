@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610843386 source:c:\users\david\onedrive\documentos\linguagem c\lista9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mylib.h"
+
+1610839896 c:\users\david\onedrive\documentos\linguagem c\lista9\mylib.h
+
+1610840779 source:c:\users\david\onedrive\documentos\linguagem c\lista9\mylib.c
+	<stdio.h>
+	<stdlib.h>
+	"mylib.h"
+
